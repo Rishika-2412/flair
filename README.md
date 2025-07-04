@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flair
 Flight Liaison AI for Itinerary Reminders
 
@@ -68,3 +69,7 @@ python agent.py
 * **Custom Hotels API**: Check Nearest Available Hotels for Checkin
 
 Made by Team **LetsDoIt**
+=======
+# flair
+voice assistant
+>>>>>>> d2dc7ed24c7e1cfe810715bf39b40e49caee2e0d
