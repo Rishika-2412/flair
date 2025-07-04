@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Flair
 Flight Liaison AI for Itinerary Reminders
 
@@ -13,46 +12,13 @@ Built using **Omni Dimension** for Voice Agent Pipeline, Custom **AeroDataBox** 
 - Hotel and stay reminders
 - Personalized trip alerts & countdowns
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 | Component                | Technology                               |
 | ------------------------ | ---------------------------------------- |
 | Voice Assistant Pipeline | **Omni Dimension for Voice Agent**       |
 | Flight Data              | **Custom AeroDataBox-based FlightS API** |
 | Itinerary Management     | **Custom APIs for Hotels and Reminders** |
-
-## Getting Started
-
-```bash
-git clone https://github.com/bharathajjarapu/Flair.git
-cd Flair
-```
-
-### 🔧 Prerequisites
-
-* Python 3.9+
-* OmniDimension API
-* AeroDataBox Rapid API
-
-### Installation
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Add your configuration:
-
-```bash
-cp .env.example .env
-```
-
-Run the app:
-
-```bash
-python agent.py
-```
 
 ## How It Works
 
@@ -69,7 +35,3 @@ python agent.py
 * **Custom Hotels API**: Check Nearest Available Hotels for Checkin
 
 Made by Team **LetsDoIt**
-=======
-# flair
-voice assistant
->>>>>>> d2dc7ed24c7e1cfe810715bf39b40e49caee2e0d
